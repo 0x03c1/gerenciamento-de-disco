@@ -1,7 +1,6 @@
-# Aula 15 — Laboratório em duplas: medindo o seu disco com `fio`
+# Gerenciamento de Disco: HDD, SSD SATA e NVMe
 
-**Infraestrutura de Hardware · CESAR School · 2026.2**
-Gerenciamento de Disco: HDD, SSD SATA e NVMe
+Laboratório em duplas: medindo o seu disco com `fio`.
 
 Atividade prática feita nas salas simultâneas (breakout rooms) do Zoom.
 **Duração: 25 minutos. Formato: duplas.**
@@ -34,8 +33,8 @@ Quem não conseguiu instalar o `fio` ou está no celular fica de Copiloto o temp
 
 1. Baixe este repositório:
    ```bash
-   git clone https://github.com/0x03c1/aula15-laboratorio-disco.git
-   cd aula15-laboratorio-disco
+   git clone https://github.com/0x03c1/gerenciamento-de-disco.git
+   cd gerenciamento-de-disco
    ```
    (ou use **Code → Download ZIP** e abra a pasta no terminal)
 2. Instale o `fio`:

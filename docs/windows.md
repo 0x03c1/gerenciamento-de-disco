@@ -36,7 +36,7 @@ quem faz o passo 3 é o colega da dupla que tem o `fio`.
 ## Caminho 2 — fio para Windows (PowerShell)
 
 Instale o fio para Windows (links em https://fio.readthedocs.io) e rode numa pasta comum,
-por exemplo `C:\Users\voce\aula15`. No Windows o fio já usa um motor assíncrono por padrão,
+por exemplo `C:\Users\voce\lab-disco`. No Windows o fio já usa um motor assíncrono por padrão,
 então não é preciso `--ioengine`.
 
 ```powershell

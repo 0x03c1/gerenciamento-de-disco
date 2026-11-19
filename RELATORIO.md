@@ -1,4 +1,4 @@
-# Relatório do laboratório — Aula 15
+# Relatório do laboratório — Gerenciamento de Disco: HDD, SSD SATA e NVMe
 
 **Sala nº:** ___
 
